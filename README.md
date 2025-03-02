@@ -12,7 +12,7 @@ This project uses Anaconda for version control and Jupyter Notebook as the devel
 
 Reference Paper
 
-Original VGG16 paper: Very Deep Convolutional Networks for Large-Scale Image Recognition
+Original VGG16 paper:https://arxiv.org/abs/1409.1556
 
 Environment Setup
 
@@ -21,12 +21,13 @@ Use the following commands to install the required environment:
 conda install python=3.7.16
 conda install tensorflow-gpu=2.5
 
-If you encounter issues with downloading or setting up the environment, I highly recommend checking out this guide: Anaconda & TensorFlow Setup Guide
+If you encounter issues with downloading or setting up the environment, I highly recommend checking out this guide: Anaconda & TensorFlow Setup Guide：
+https://reurl.cc/A6QMZZ
 
 Dataset Download
 
 Download the dataset required for training from the following link:
-Download Dataset
+https://drive.google.com/drive/folders/1u7RnLL8alzHliPrpfjW8XCpNZYNP5UDO?usp=drive_link
 
 Issues & Feedback
 
