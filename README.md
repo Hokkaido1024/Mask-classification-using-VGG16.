@@ -19,6 +19,7 @@ Environment Setup
 Use the following commands to install the required environment:
 
 conda install python=3.7.16
+
 conda install tensorflow-gpu=2.5
 
 If you encounter issues with downloading or setting up the environment, I highly recommend checking out this guide: Anaconda & TensorFlow Setup Guide：
